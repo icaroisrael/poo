@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4c61415-eff7-41fe-b775-3e83e4e8baa8" name="Default Changelist" comment="" />
+    <list default="true" id="c4c61415-eff7-41fe-b775-3e83e4e8baa8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/AppConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/POO/Tv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/POO/Tv.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tv.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="259t6inQ4OWeBbSWIag4FcTJtcn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
@@ -33,7 +44,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.AppConta">
+    <configuration name="AppConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppConta" />
+      <module name="POO" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="POO" />
@@ -64,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppConta" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Nota" />
         <item itemvalue="Application.QualquerCoisa" />
@@ -83,5 +102,18 @@
       <updated>1644950956933</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
